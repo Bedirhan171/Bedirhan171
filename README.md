@@ -15,5 +15,5 @@ Professional Skills
 **Front End. Dev.** <br>
 **Web Development**<br>
 **Network**<br>
-**Software Engineer**
+**Software Engineer**<br>
 **Cyber Security**
