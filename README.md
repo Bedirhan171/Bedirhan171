@@ -12,7 +12,6 @@ My Life routine
 
 Professional Skills
 ------------ 
-**Front End. Dev.** <br>
 **Web Development**<br>
 **Network**<br>
 **Software Engineer**<br>
