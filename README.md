@@ -4,6 +4,6 @@ Hi, I'm a tired young man who works every day to go one step further. My skills 
 
 My Life routine
 -------
-**Constantly dying<br>
+**Constantly dying**<br>
 **Creating new characters**<br>
 **Developer**<br>
