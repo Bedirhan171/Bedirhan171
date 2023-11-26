@@ -1,18 +1,9 @@
 ### Hi my name is Bedirhan :wave:
 
-Hi! I am Bedirhan 17 years old. I am a high school student. I am a student of IT department and I am knowledgeable and experienced about Cyber Security, Network Systems,Web Development. See you 
+Hi, I'm a tired young man who works every day to go one step further. My skills are Full-Stack dev - Network experience - cyber security and more. if you need mental help you can contact me
 
 My Life routine
 -------
-**Vocational high School**<br>
-**IT Department**<br>
-**Cyber Security**<br>
+**Constantly dying<br>
+**Creating new characters**<br>
 **Developer**<br>
-**GYM**<br>
-
-Professional Skills
------------- 
-**Web Development**<br>
-**Network**<br>
-**Software Engineer**<br>
-**Cyber Security**
